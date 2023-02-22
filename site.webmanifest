@@ -1,7 +1,6 @@
 {
-    "lang": "pt",
+    "short_name": "PlayList",
     "name": "Musica IPRV",
-    "short_name": "musicaIPRV",
     "icons": [
         {
             "src": "docs/favicon/android-chrome-192x192.png",
@@ -14,11 +13,9 @@
             "type": "image/png"
         }
     ],
-    "id": "/",
     "start_url": "/",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/",
-    "orientation": "natural"
+    "scope": "/"
 }
