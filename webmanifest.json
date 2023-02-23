@@ -20,6 +20,5 @@
     "display": "standalone",
     "scope": "/",
     "theme_color": "#ffffff",
-    "prefer_related_applications": false,
-    
+    "prefer_related_applications": false
 }
