@@ -2,6 +2,7 @@
     "short_name": "SkySong",
     "name": "SkySong - IPRV",
     "description": "Playlist das músicas da IPRV",
+    "lang": "pt",
     "icons": [
         {
             "src": "docs/favicon/android-chrome-192x192.png",
@@ -18,5 +19,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#ffffff"
+    "theme_color": "#ffffff",
+    "prefer_related_applications": false,
+    
 }

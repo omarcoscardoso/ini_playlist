@@ -52,3 +52,7 @@
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+
+#setup_button {
+  display: none;
+}
