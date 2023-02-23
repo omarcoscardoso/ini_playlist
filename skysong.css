@@ -54,13 +54,13 @@
 }
 
 body {
-  background-color: #546E7A;
-  color: white;
+  background-color: #ffffff;
+  color: rgb(68, 68, 68);
   font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 a, a:visited {
-  color: white;
+  color: rgb(38, 0, 255);
 }
 
 h1 {
